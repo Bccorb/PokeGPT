@@ -1,0 +1,15 @@
+/Users/brandoncorbett/git/PokeGPT/bin/Debug/net7.0/PokeGPT
+/Users/brandoncorbett/git/PokeGPT/bin/Debug/net7.0/PokeGPT.deps.json
+/Users/brandoncorbett/git/PokeGPT/bin/Debug/net7.0/PokeGPT.runtimeconfig.json
+/Users/brandoncorbett/git/PokeGPT/bin/Debug/net7.0/PokeGPT.dll
+/Users/brandoncorbett/git/PokeGPT/bin/Debug/net7.0/PokeGPT.pdb
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/PokeGPT.csproj.AssemblyReference.cache
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/PokeGPT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/PokeGPT.AssemblyInfoInputs.cache
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/PokeGPT.AssemblyInfo.cs
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/PokeGPT.csproj.CoreCompileInputs.cache
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/PokeGPT.dll
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/refint/PokeGPT.dll
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/PokeGPT.pdb
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/PokeGPT.genruntimeconfig.cache
+/Users/brandoncorbett/git/PokeGPT/obj/Debug/net7.0/ref/PokeGPT.dll
